@@ -17,7 +17,7 @@
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="?android:attr/listPreferredItemHeight"
-        android:layout_background="?android:attr/activateBackgroundIndicator"
+        android:background="?android:attr/activatedBackgroundIndicator"
         android:padding="6dip">
         <ImageView
             android:id="@+id/icon"
